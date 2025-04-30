@@ -16,7 +16,10 @@ This project is a responsive front-end replica of the Netflix homepage, built us
 - CSS3 (Flexbox & Grid)  
 - JavaScript  
 
-📬 Contact
-Gitanjali Singh
-✉️ Gitanjali17singh@gmail.com
-🔗 LinkedIn
+## 📬 Contact
+
+**Gitanjali Singh**  
+📧 Gitanjali17singh@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gitanjali-singh-aa6b24219)
+
+
