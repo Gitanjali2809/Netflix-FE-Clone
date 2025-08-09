@@ -26,13 +26,13 @@ It showcases core UI components and a clean, modern design.
 ## 📸 Screenshots
 
 ### Home Page
-![Netflix Clone Screenshot 1](images/images/netflix-1.png)
+![Netflix Clone Screenshot 1](images/Netflix%20-1.png)
 
 ### Movie Sections
-![Netflix Clone Screenshot 2](images/images/Netflix-2.png)
+![Netflix Clone Screenshot 2](images/Netflix%20-2.png)
 
 ### FAQ & Footer
-![Netflix Clone Screenshot 3](images/images/Netflix-3.png)
+![Netflix Clone Screenshot 3](images/Netflix%20-3.png)
 
 ---
 
