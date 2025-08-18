@@ -23,7 +23,7 @@ The project focuses on recreating the core layout and design while keeping it cl
 
 ---
 ## 🔗 Live Demo
-[ Demo Link ] (https://git-net-fe-clone.netlify.app/)
+Demo Link (https://git-net-fe-clone.netlify.app/)
 
 ---
 
