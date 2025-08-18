@@ -22,6 +22,10 @@ The project focuses on recreating the core layout and design while keeping it cl
 - JavaScript  
 
 ---
+## 🔗 Live Demo
+[ Demo Link ] (https://git-net-fe-clone.netlify.app/)
+
+---
 
 ## 📜 License  
 
