@@ -1,21 +1,21 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone  
 
-This project is a responsive front-end replica of the Netflix homepage, built using **HTML**, **CSS**, and **JavaScript**.  
-It showcases core UI components and a clean, modern design.
-
----
-
-## 🚀 Features
-
-- 🔹 **Responsive Layout** – Works on desktop, tablet, and mobile screens  
-- 🔹 **Navbar** – Sticky navigation bar with logo and menu items  
-- 🔹 **Banner** – Hero section with featured movie/poster  
-- 🔹 **Movie Sections** – Horizontally scrollable carousels for genres  
-- 🔹 **Interactive Elements** – Hover effects, smooth scrolling  
+A responsive front-end clone of the Netflix homepage built with **HTML**, **CSS**, and **JavaScript**.  
+The project focuses on recreating the core layout and design while keeping it clean and modern.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features  
+
+- **Responsive Design** – Adapts to desktop, tablet, and mobile screens  
+- **Sticky Navbar** – Navigation bar with logo and menu items  
+- **Hero Banner** – Featured movie or show section  
+- **Movie Carousels** – Horizontally scrollable sections by genre  
+- **Interactive UI** – Hover animations and smooth scrolling  
+
+---
+
+## 🛠️ Tech Stack  
 
 - HTML5  
 - CSS3 (Flexbox & Grid)  
@@ -23,21 +23,10 @@ It showcases core UI components and a clean, modern design.
 
 ---
 
-## 📸 Screenshots
+## 📜 License  
 
-### Home Page
-![Netflix Clone Screenshot 1](images/Netflix%20-1.png)
+This project is for **educational purposes only** and is not associated with Netflix.  
 
-### Movie Sections
-![Netflix Clone Screenshot 2](images/Netflix%20-2.png)
-
-### FAQ & Footer
-![Netflix Clone Screenshot 3](images/Netflix%20-3.png)
-
----
-
-## 📜 License
-This project is for **educational purposes only** and is not affiliated with Netflix.
 
 
 ## 📬 Contact
